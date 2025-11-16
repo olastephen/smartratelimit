@@ -67,3 +67,6 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
+# PyPI credentials
+.pypirc
+

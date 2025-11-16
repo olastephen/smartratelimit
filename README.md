@@ -1,7 +1,9 @@
 # smartratelimit
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/olastephen/smartratelimit/blob/main/LICENSE)
+[![PyPI version](https://badge.fury.io/py/smartratelimit.svg)](https://badge.fury.io/py/smartratelimit)
+[![PyPI downloads](https://img.shields.io/pypi/dm/smartratelimit.svg)](https://pypi.org/project/smartratelimit/)
 
 A Python library that automatically manages API rate limits, preventing 429 errors and optimizing API usage without requiring developers to manually track or implement rate limiting logic.
 
@@ -382,28 +384,28 @@ for item in items:
 
 ## Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please read [CONTRIBUTING.md](https://github.com/olastephen/smartratelimit/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
 This project is licensed under the MIT License.
 
-See the [LICENSE](LICENSE) file for the full license text.
+See the [LICENSE](https://github.com/olastephen/smartratelimit/blob/main/LICENSE) file for the full license text.
 
 ## Documentation
 
 Comprehensive documentation is available in the `docs/` directory:
 
-- 📖 [Quick Start Guide](docs/QUICK_START.md) - Get started in 5 minutes
-- 📚 [Complete Tutorial](docs/TUTORIAL.md) - Step-by-step guide
-- 📋 [API Reference](docs/API_REFERENCE.md) - Complete API documentation
-- 💻 [Examples](docs/EXAMPLES.md) - Real-world examples with free APIs
-- 💾 [Storage Backends](docs/STORAGE_BACKENDS.md) - SQLite and Redis guide
-- ⚡ [Async Guide](docs/ASYNC_GUIDE.md) - Async/await usage
-- 🔄 [Retry Strategies](docs/RETRY_STRATEGIES.md) - Advanced retry logic
-- 📊 [Metrics Guide](docs/METRICS_GUIDE.md) - Collecting and exporting metrics
-- 🛠️ [CLI Guide](docs/CLI_GUIDE.md) - Command-line tools
-- 🎯 [Advanced Features](docs/ADVANCED_FEATURES.md) - Advanced patterns
+- 📖 [Quick Start Guide](https://github.com/olastephen/smartratelimit/blob/main/docs/QUICK_START.md) - Get started in 5 minutes
+- 📚 [Complete Tutorial](https://github.com/olastephen/smartratelimit/blob/main/docs/TUTORIAL.md) - Step-by-step guide
+- 📋 [API Reference](https://github.com/olastephen/smartratelimit/blob/main/docs/API_REFERENCE.md) - Complete API documentation
+- 💻 [Examples](https://github.com/olastephen/smartratelimit/blob/main/docs/EXAMPLES.md) - Real-world examples with free APIs
+- 💾 [Storage Backends](https://github.com/olastephen/smartratelimit/blob/main/docs/STORAGE_BACKENDS.md) - SQLite and Redis guide
+- ⚡ [Async Guide](https://github.com/olastephen/smartratelimit/blob/main/docs/ASYNC_GUIDE.md) - Async/await usage
+- 🔄 [Retry Strategies](https://github.com/olastephen/smartratelimit/blob/main/docs/RETRY_STRATEGIES.md) - Advanced retry logic
+- 📊 [Metrics Guide](https://github.com/olastephen/smartratelimit/blob/main/docs/METRICS_GUIDE.md) - Collecting and exporting metrics
+- 🛠️ [CLI Guide](https://github.com/olastephen/smartratelimit/blob/main/docs/CLI_GUIDE.md) - Command-line tools
+- 🎯 [Advanced Features](https://github.com/olastephen/smartratelimit/blob/main/docs/ADVANCED_FEATURES.md) - Advanced patterns
 
 ## Support
 
